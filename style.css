@@ -84,12 +84,18 @@ body {
     font-weight: 700;
     margin-top: 1rem;
     border-radius: 3px;
+    outline: none;
+    border: none;
+    cursor: pointer;
 }
 label {
     text-align: center;
 }
 input {
     border-radius: 5px;
+    height: 2rem;
+    outline: none;
+    border: none;
 }
 H1 {
     text-align: center;
@@ -99,3 +105,4 @@ H1 {
     cursor: pointer;
     margin-top: 1.5em;
 }
+
